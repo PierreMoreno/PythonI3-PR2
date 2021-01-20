@@ -8,7 +8,7 @@ Via anaconda prompt taper:
 
 Pip install pandas
 
-Pip installplotly
+Pip install plotly
 
 Pip install dash
 
