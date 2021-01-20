@@ -1,6 +1,6 @@
 # PythonI3-PR2
 
-#User Guide 
+# User Guide 
 
 Installer anaconda sur votre machine
 
@@ -27,7 +27,7 @@ Puis :
 •  Vous pouvez désormais voir le  Dashboard !  Ne pas fermez la console de commande pendant la visualisation du dashboard
 
 
-#Developper Guide
+# Developper Guide
 
 Le projet contient un seul fichier python (.py) séparé avec  des commentaires :
 On trouve dans  le  code : 
@@ -35,7 +35,7 @@ Les imports, et l’import du .csv, les remplissages des data frames, la créati
 Afin de  rajouter des graphiques (et ou amélioration tel qu’un slider), il faut rajouter dans la partie #création du Dash le code nécessaire. Pour le slider il faudra aussi créer de nouvelle  Data Frames dans  la partie dédié !
 
 
-#Rapport d'analyse
+# Rapport d'analyse
 
 Les données appartiennent à : http://www.worldbank.org
 
