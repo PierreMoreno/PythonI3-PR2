@@ -1,5 +1,5 @@
 # PythonI3-PR2
-User Guide 
+#User Guide 
 Installer anaconda sur votre machine
 Via anaconda prompt taper: 
 Pip install pandas
@@ -13,13 +13,13 @@ Pip install plotly_express
 •  Ne pas fermez la console de commande pendant la visualisation du site
 Vous pouvez désormais voir le  Dashboard ! 
 
-Structure du projet :
+#Developper Guide
 Le projet contient un seul fichier python (.py) séparé avec  des commentaires :
 On trouve dans  le  code : 
 Les imports, et l’import du .csv, les remplissages des data frames, la création de data séries,  Création du dash et des figures. 
 Afin de  rajouter des graphiques (et ou amélioration tel qu’un slider), il faut rajouter dans la partie #création du Dash le code nécessaire. Pour le slider il faudra aussi créer de nouvelle  Data Frames dans  la partie dédié !
 
-Rapport d'analyse
+#Rapport d'analyse
 Les données appartiennent à : http://www.worldbank.org
 Le sujet traité est la population de réfugiés dans  le monde à l’aide de Population de réfugiés par pays ou par territoire d’asile
 Définition : Les réfugiés sont des personnes qui sont reconnues comme réfugiés en vertu de la Convention Relative au Statut des Réfugiés ou à son Protocole de 1967, la Convention de l'Organisation de l'Unité africaine de 1969 régissant les Aspects spécifiques des problèmes des réfugiés en Afrique, les personnes reconnues comme réfugiés selon le statut de l'UNHCR, les personnes auxquelles on a accordé un statut humanitaire de réfugié et les personnes bénéficiant d'une protection temporaire. Les demandeurs d'asile (personnes qui ont fait une demande d'asile ou du statut de réfugié et qui n'ont pas encore reçu une décision ou qui sont enregistrées comme demandeurs d'asile) sont exclus. Les réfugiés palestiniens sont des personnes (et leurs descendants) dont le pays de résidence était la Palestine entre juin 1946 et mai 1948 et qui ont perdu leur maison et leur moyens de subsistance suite au conflit arabo-israélien de 1948. Pays d'asile est le pays où une demande d'asile a été déposé et accordé.
