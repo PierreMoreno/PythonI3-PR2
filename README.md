@@ -1,6 +1,9 @@
 # PythonI3-PR2
 #User Guide 
+
 Installer anaconda sur votre machine
+
+
 Via anaconda prompt taper: 
 Pip install pandas
 Pip installplotly
